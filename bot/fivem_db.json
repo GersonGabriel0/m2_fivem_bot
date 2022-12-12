@@ -1,0 +1,28 @@
+{
+  "sessions": [
+    {
+      "id": "2380465708:2380465708",
+      "data": {
+        "currentarma": null,
+        "action": null,
+        "currentcargo": null
+      }
+    },
+    {
+      "id": "1370013128:1370013128",
+      "data": {
+        "currentarma": null,
+        "action": null,
+        "currentcargo": null
+      }
+    },
+    {
+      "id": "2573352013:2573352013",
+      "data": {
+        "currentarma": null,
+        "action": null,
+        "currentcargo": null
+      }
+    }
+  ]
+}
